@@ -12,3 +12,6 @@ Lighting
 objects
 
 Attitude
+
+# Feedback
+Upon edit, pass new version through inference, with maybe larger training step
